@@ -5,6 +5,7 @@ Simple OpenCV project to detect faces in Photos/Pictures and Videos/Webcams
 The algorithm is simple. First, the program detects faces on the screen(Videofile or image)
 and then cut out the detected face. Next step is to blur the cropped image and paste it in original image.
 The program allows you to switch between picture and webcam in real time.
+(To switch between Webcam and pictures press buttons 'W'(Webcam) and 'P'(Picture) or 'Q'(Quit)) 
 
 ## Requirements
 * C++
