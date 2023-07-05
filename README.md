@@ -1,5 +1,5 @@
 # OpenCV Face Blur
-Simple OpenCV project to detect faces in Photos/Pictures and Videos/Webcams
+Simple OpenCV project to detect faces in Photos/Pictures and Videos/Webcams and then blur them.
 
 ## About
 The algorithm is simple. First, the program detects faces on the screen(Videofile or image)
