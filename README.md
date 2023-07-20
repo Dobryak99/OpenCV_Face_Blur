@@ -10,6 +10,7 @@ The program allows you to switch between picture and webcam in real time.
 ## Requirements
 * C++
 * [OpenCV](https://github.com/opencv/opencv)
+* CMake
 
 ## Installing
 * Download ZIP file of the repository
